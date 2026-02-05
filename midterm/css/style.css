@@ -1,0 +1,118 @@
+body {
+    background-color:lightpink
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color:black;
+    border: 5px dotted deeppink;
+
+}
+
+.nav {
+    list-style: none;
+    text-align: center;
+
+}
+
+.nav li{
+    display:inline;
+    margin-right: 20px;
+
+}
+
+.div-test{
+    background-color:cornflowerblue;
+    text-align:center;
+    color:white;
+
+}
+
+.span1 {
+font-size: 50px;
+
+}
+
+.span2 {
+    font-size: 10px;
+}
+
+.div-test1{
+    background-color:#CA91A2;
+    text-align:center;
+    -webkit-text-fill-color:#f7bdce;
+
+}
+
+.div-test2{
+    background-color:silver;
+    text-align:center;
+    -webkit-text-fill-color:dimgrey;
+}
+
+.div-test3{
+    background-color:black;
+    text-align:center;
+    -webkit-text-fill-color: white;
+
+}
+
+.div-test4{
+    background-color:#BFB3D5;
+    text-align:center;
+    -webkit-text-fill-color:#4B3B6B;
+}
+
+.div-test5{
+    background-color:#E0B17E;
+    text-align:center;
+    -webkit-text-fill-color:#AD7B40;
+}
+
+.div-test6{
+    background-color:#990000;
+    text-align:center;
+}
+
+.div-test7{
+    background-color:black;
+    text-align:center;
+    -webkit-text-fill-color: rgb(223, 207, 58);
+}
+
+.div-test8{
+    background-color:black;
+    text-align:center;
+    -webkit-text-fill-color:#990000;
+}
+
+.div-test9{
+    background-color:black;
+    text-align:center;
+    -webkit-text-fill-color:blueviolet;
+}
+
+.div-test10{
+    background-color:black;
+    text-align:center;
+    -webkit-text-fill-color:burlywood;
+}
+
+.div-test11{
+    background-color:black;
+    text-align:center;
+    -webkit-text-fill-color:lightpink;
+}
+
+.div-test12{
+    background-color:black;
+    text-align:center;
+    -webkit-text-fill-color:white;
+}
+
+.div-test13{
+    background-color:black;
+    -webkit-text-fill-color:lightpink;
+}

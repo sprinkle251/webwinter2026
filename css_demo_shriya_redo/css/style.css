@@ -1,0 +1,31 @@
+body {
+    background-color:blue
+}
+
+.container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color:black;
+    border: 10px dotted lightpink;
+
+}
+
+.nav {
+    list-style: none;
+    text-align: center;
+
+}
+
+.nav li{
+    display:inline;
+    margin-right: 20px;
+
+}
+
+.div-test{
+    background-color:powderblue;
+    text-align:center;
+    color:white;
+
+}
