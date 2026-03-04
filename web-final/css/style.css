@@ -1,0 +1,61 @@
+.div-test{
+    background-color:#2742F5;
+    border: 8px dotted red;
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.div-test1 {
+    background-color:red;
+    text-align:center;
+    -webkit-text-fill-color: white;
+}
+
+.div-test2{
+    background-color: black;
+    text-align:center;
+    -webkit-text-fill-color: red;
+}
+
+.div-test3{
+    background-color: red;
+    text-align:center;
+    
+}
+
+.div-test4{
+    background-color: blue;
+    text-align:center;
+   
+}
+.div-test5{
+    background-color: red;
+    text-align:center;
+    
+}
+.div-test6{
+    background-color: blue;
+    text-align:center;
+   
+}
+
+.div-test7{
+    background-color:red;
+    text-align:center;
+}
+
+.div-test8{
+    background-color:black;
+    text-align:center;
+}
+.div-test9{
+    background-color:black;
+    text-align:center;
+    -webkit-text-fill-color: white;
+}
+.div-test10{
+    background-color:blue;
+    text-align:center;
+    -webkit-text-fill-color:red;
+}
